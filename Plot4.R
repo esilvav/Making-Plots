@@ -1,6 +1,5 @@
 # Making-Plots
 # Exploratory Data Analysis - plot4.R
-
 require("dplyr")
 exercise="D:/censo 2010/data/household_power_consumption.txt"
 
