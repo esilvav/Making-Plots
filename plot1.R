@@ -37,3 +37,5 @@ par(mar = c(4, 4, 2, 2), family="serif")
 with(power_cnsm, hist(Global_active_power, main = "Global Active Power EOSV", xlab = "Global Active Power (kilowatts)", col = "red", ty=1))
 # Cierre
 dev.off()
+
+(http://2.bp.blogspot.com/-vzKm-p74UOI/VNfWa-NEyjI/AAAAAAAAAlM/rpxjh2Vsi88/s1600/plot1.png)
